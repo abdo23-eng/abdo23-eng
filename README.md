@@ -1,5 +1,5 @@
-<h1 align="center">👋 مرحباً، أنا عبد المالك (abdo23-eng)</h1>
-<h3 align="center">طالب هندسة معلوماتية ومطور تطبيقات مكرس لبناء تجارب مستخدم متميزة 🚀</h3>
+<h1 align="center">👋 Hi, I'm Abdulmalik (abdo23-eng)</h1>
+<h3 align="center">Informatics Engineering Student & Mobile App Developer dedicated to crafting exceptional user experiences 🚀</h3>
 
 <br>
 
@@ -10,7 +10,7 @@
 
 ---
 
-### 💻 التقنيات والأدوات الأساسية (Tech Stack):
+### 💻 Tech Stack & Tools:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
@@ -24,7 +24,7 @@
 
 ---
 
-### 📊 إحصائيات GitHub:
+### 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdo23-eng&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
@@ -36,5 +36,5 @@
 
 ---
 
-### 📫 تواصل معي:
-* 🌐 البروفايل الحالي: [GitHub](https://github.com/abdo23-eng)[cite: 1]
+### 📫 Connect with me:
+* 🌐 GitHub Profile: [abdo23-eng](https://github.com/abdo23-eng)[cite: 1]
